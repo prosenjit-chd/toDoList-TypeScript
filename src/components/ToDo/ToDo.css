@@ -1,0 +1,21 @@
+.app-title{
+    color: brown;
+}
+
+.up-background{
+    background-color: aquamarine;
+}
+
+.add-button{
+    background-color: #E76F51;
+    color: white;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.input-item{
+    width: 25%;
+}
